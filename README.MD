@@ -1,4 +1,7 @@
 
+![alt text](https://raw.githubusercontent.com/hassam7/flexbox-layout-response/master/127.0.0.1_8080_.png)
+
+
 # Reponsive website with Flexbox and Sass.
 
 This repo contains a web site which I created by following an online flexbox tutorial from udemy. I creating this repo so I can have refrence to CSS properties and tricks which I learned following the course.
